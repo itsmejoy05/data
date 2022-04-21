@@ -9,7 +9,7 @@ This file contains links to the data behind our [NHL Predictions](https://projec
 
 `nhl_elo.csv` contains game-by-game Elo ratings and forecasts since the NHL's inaugural 1917-18 season.
 
-`nhl_elo_latest.csv` contains game-by-game Elo ratings and forecasts for only the latest NHL season.
+`nhl_elo_latest.xls` contains game-by-game Elo ratings and forecasts for only the latest NHL season.
 
 
 Column | Definition
